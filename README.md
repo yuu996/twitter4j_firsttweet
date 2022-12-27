@@ -29,3 +29,7 @@ dependencies {
 2. add build.gradle.kts in "add build.gradle.kts"
 - ※cannot use compile. substitute implementation
 3. refresh cache and restart IDE
+
+詳しくはこちらをご覧ください。
+Check here for details
+https://twitter4j.org/
